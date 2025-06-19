@@ -1,2 +1,2 @@
 # Proy-Sprint7
-Desarrollo del proyecto del 
+Desarrollo del proyecto del Sprint7
